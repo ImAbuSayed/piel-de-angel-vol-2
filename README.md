@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Oye baby, la noche está pidiendo que te acerques
+> Esa mirada tuya sabe a tentación y suerte
+> Me tienes maquinando cómo hacerte mía otra vez
+> Con ese flow de España y un perfume de Chanel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
